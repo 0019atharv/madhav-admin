@@ -61,5 +61,6 @@ jobs:
         with:
           app-name: 'madhav-admin'
           slot-name: 'Production'
-          package: .
+          package: ./dist
+
           
